@@ -1,0 +1,10 @@
+RouteName,StopName,Directions,Latitude,Longitude
+ElephantWalk,Trigon,Outbound,30.61462009,-96.3390501
+ElephantWalk,Southwest Parkway @ Wellborn - Outbound,Outbound,30.59183864,-96.32934236
+ElephantWalk,Southwest Parkway - Outbound,Outbound,30.59373456,-96.32607978
+ElephantWalk,Southwest Parkway @ Welsh - Outbound,Outbound,30.5956524,-96.32273015
+ElephantWalk,Medina,Outbound,30.59756083,-96.32121264
+ElephantWalk,Southwest Parkway @ Welsh - Inbound,Inbound,30.59570997,-96.32278159
+ElephantWalk,Southwest Parkway - Inbound,Inbound,30.59348712,-96.32671682
+ElephantWalk,Southwest Parkway @ Wellborn - Inbound,Inbound,30.59181774,-96.32956665
+ElephantWalk,Trigon,Inbound,30.61462009,-96.3390501

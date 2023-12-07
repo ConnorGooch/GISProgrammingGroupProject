@@ -1,0 +1,12 @@
+RouteName,StopName,Directions,Latitude,Longitude
+Excel,Trigon,Outbound,30.6136525,-96.3394644
+Excel,University Oaks @ George Bush East - Outbound,Outbound,30.6201048,-96.3171217
+Excel,University Oaks @ Stallings - Outbound,Outbound,30.6215339,-96.3154843
+Excel,Munson @ University Oaks - Outbound,Outbound,30.624933,-96.3123437
+Excel,University Oaks @ Rhett Butler - Outbound,Outbound,30.6263385,-96.3097434
+Excel,Scarlett O'Hara,Outbound,30.6275454,-96.3064898
+Excel,University Oaks @ Rhett Butler - Inbound,Inbound,30.6264774,-96.30978463
+Excel,Munson @ University Oaks - Inbound,Inbound,30.62507405,-96.3122985
+Excel,University Oaks @ Stallings - Inbound,Inbound,30.62165286,-96.31559249
+Excel,University Oaks @ George Bush East - Inbound,Inbound,30.62047711,-96.31698075
+Excel,Trigon,Inbound,30.6136525,-96.3394644
